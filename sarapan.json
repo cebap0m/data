@@ -1,0 +1,91 @@
+ [
+        {
+            "name": "Telur ceplok alpukat",
+            "description": "Belah alpukat jadi dua bagian, buang bijinya, dan buat lubang lebih dalam dengan mengeruk dua sendok makan daging alpukat dari masing-masing belahan.",
+            "Rating": "8.16",
+            "categorie":"Halal",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "http://cdn2.tstatic.net/travel/foto/bank/images/sarapan-sehat_20171024_073836.jpg"
+        },
+	
+	 {
+            "name": "Buah, sayur, dan roti panggang",
+            "description": "Panggang roti dengan mentega, alpukat tumbuk, dan biji wijen. Sajikan dengan potongan sayur seperti brokoli atau buah seperti stoberi, rasberi, kiwi, dan lainnya. Buah dan sayur adalah komponen wajib dalam sarapanmu.",
+            "Rating": "6.96",
+            "categorie":"Halal",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://www.tokomesin.com/wp-content/uploads/2017/10/index-5.jpg"
+        },
+	
+	{
+            "name": "Orak-arik telur arugula",
+            "description": "Menu ini simple banget tapi dapat mencukupi kebutuhan protein dan vitaminmu yang berasal dari telur dan sayuran hijau.",
+            "Rating": "2.66",
+            "categorie":"Halal",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "http://1.bp.blogspot.com/-ivGinnxiRco/XFFgGXBQRYI/AAAAAAAANDc/wDhkoe2Ru_sTvj_VXYZ2XdIB2S0QYC6ewCK4BGAYYCw/s1600/Orak-arik%2Btelur%2Barugula.PNG"
+        },
+	
+	 {
+            "name": "Smoothie alpukat",
+            "description": "Campurkan setengah alpukat, setengah gelas yoghurt, setengah gelas susu, satu buah pisang, sedikit taburan vanili, dan sejumput sayur bayam.",
+            "Rating": "7.86",
+            "categorie":"Halal",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "http://news.netmedia.co.id/wp-content/uploads/2017/10/4-11.jpg"
+        },
+	
+	        {
+            "name": "Pancake sehat",
+            "description": "Resepnya mudah, cukup satu sendok makan tepung protein, putih telur, setengah gelas pisang yang ditumbuk, dan segenggam flax seeds atau biji rami.",
+            "Rating": "2.13",
+            "categorie":"Halal",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://hellosehat.com/wp-content/uploads/2016/09/shutterstock_94461148.jpg"
+        },
+	
+	 {
+            "name": "Oatmeal pisang",
+            "description": "Seduh oatmeal dengan segelas susu dan campurkan tumbukan pisang yang sudah halus ke dalamnya.",
+            "Rating": "9.99",
+            "categorie":"Halal",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/sasefoto/original/27900_oatmeal-pisang-stroberi.jpg"
+        },
+	
+	{
+            "name": "Telur dadar dengan alpukat dan salmon",
+            "description": "Sarapan kaya protein ini juga sederhana buat dimasak pagi-pagi. Alpukat dan ikan salmon tentu akan menambah asupan protein dan lemak sehat dalam menu makananmu.",
+            "Rating": "3.36",
+            "categorie":"Halal",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "http://static.pulsk.com/images/2017/01/16/1484564823587ca957d7bf7.jpg"
+        },
+	
+	 {
+            "name": "Telur dadar sayur",
+            "description": "Yup, kamu bisa isi telur dadarmu dengan banyak pilihan salah satunya sayuran. Sayur hijau atau tomat cocok-cocok saja kok untuk dimasak dalam telur dadar. Coba deh!",
+            "Rating": "99.86",
+            "categorie":"Halal",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://img.okezone.com/content/2018/07/03/298/1917177/lapar-di-sore-hari-ganjal-dengan-telur-dadar-sayuran-jajal-resepnya-u6X2tTd85V.jpg"
+        },
+
+	{
+            "name": "Roti panggang alpukat dengan telur dan keju",
+            "description": "Menu ini sih dijamin menjaga perut kamu tetap kenyang sampai jam makan siang. Kombinasi roti, alpukat, telur, dan keju sangat mencukupi kebutuhan protein dan lemak nabati, rasanya pun enak.",
+            "Rating": "7.36",
+            "categorie":"Halal",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "http://static.pulsk.com/images/2017/01/16/1484564826587ca95a4554c.jpg"
+        },
+	
+	 {
+            "name": "Telur rebus",
+            "description": "Penelitian di AS menunjukkan kalau kamu sedang diet rendah kalori dan memakan telur rebus sebagai menu sarapan, berat badanmu akan dua kali lebih cepat turun lho.",
+            "Rating": "99.89",
+            "categorie":"Halal",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://asset.kompas.com/crops/Ot_kNrBpu3kGiOcKEonj6L_z12E=/0x0:1000x667/750x500/data/photo/2017/11/07/3855988092.jpg"
+        }
+]
